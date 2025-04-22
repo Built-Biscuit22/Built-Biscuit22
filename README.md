@@ -28,7 +28,7 @@
 - Reach out if you are looking for a collaborator!
 - Always looking to work on new projects
 # 📫 How to reach me
-- Email: UJ11531@umbc.ed
+- Email: UJ11531@umbc.edu
 # 😄 Pronouns
 - she/her
 # ⚡Fun fact:
