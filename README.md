@@ -32,7 +32,7 @@
 # 😄 Pronouns
 - she/her
 # ⚡Fun fact:
-- I am have the same top artist for the past 5 years on Spotify Wrapped
+- I have had the same top artist for the past 5 years on Spotify Wrapped
 
 <!---
 Built-Biscuit22/Built-Biscuit22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
