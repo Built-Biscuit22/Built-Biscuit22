@@ -18,8 +18,8 @@
 - Assembly
 - MatLab
 - SQL
-# 🌱 Coding Languages I’m currently learning ...
 - Fortran
+# 🌱 Coding Languages I’m currently learning ...
 - HTML
 - React
 - Java
