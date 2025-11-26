@@ -1,6 +1,6 @@
 # 👋 Hi!
 - I’m Kameil also known as @Built-Biscuit22!
-- Currently a student at UMBC majoring in Computer Engineering with a consentration in Cybersecurity
+- Currently a student at UMBC majoring in Computer Engineering with a consentration in Cybersecurity & Electronic Systems
 - A service minded contributor who seeks opportunities to participate on teams with a shared vision and passion to make a difference in her community.
 - Skilled at organizing and communicating with a desire to grow in a professional field.
 # 👀 I’m interested in
