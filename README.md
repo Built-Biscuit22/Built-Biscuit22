@@ -15,6 +15,8 @@
 - C
 - Python
 - Verilog
+- System Verilog
+- VHDL
 - Assembly
 - MatLab
 - SQL
@@ -24,13 +26,14 @@
 - React
 - Java
 - Swift
+- Go
 # 💞️ I’m looking to collaborate on ...
 - Reach out if you are looking for a collaborator!
 - Always looking to work on new projects
 # 📫 How to reach me
 - Email: UJ11531@umbc.edu
 # 😄 Pronouns
-- she/her
+- she/her/hers
 # ⚡Fun fact:
 - I have had the same top artist for the past 5 years on Spotify Wrapped
 
